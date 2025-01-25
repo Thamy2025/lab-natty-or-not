@@ -4,10 +4,10 @@
 Esse E-BOOK foi criado para jovens que querem seguir a carreira de designer.
 
 ## 🤖 Tecnologias Utilizadas
-[Chat Gpt](https://chatgpt.com/) para criação do conteúdo;
-https://leonardo.ai/ para criação de imagens; 
-LibreOficce para edição; 
-PDF para impressão;
+- [Chat Gpt](https://chatgpt.com/) para criação do conteúdo;
+- https://leonardo.ai/ para criação de imagens; 
+- LibreOficce para edição; 
+- PDF para impressão
 
 ## 🧐 Processo de Criação
 Utilizei o chatgpt para auxílio na roteirização, que a princípio seria um vídeo e depois alterei para um E-book
